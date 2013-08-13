@@ -1,3 +1,5 @@
+!Author: Unknown
+
 program read_rms 
  implicit none
  real,allocatable::a(:)
